@@ -1,0 +1,8 @@
+{
+	"Log" :
+	{
+		"name":"rcsLog",
+		"size": 10,
+		"_comment" : "The unit of size is MB. The size should be bigger than 5MB and smaller than 100MB" 
+	}
+}
